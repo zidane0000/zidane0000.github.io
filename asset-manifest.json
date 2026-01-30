@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1c6126a.css",
+    "main.js": "/static/js/main.74f8c1fa.js",
+    "static/js/453.a145645a.chunk.js": "/static/js/453.a145645a.chunk.js",
+    "static/media/multi-task-learning.png": "/static/media/multi-task-learning.a895d69f8754f06bace5.png",
+    "static/media/home-main.png": "/static/media/home-main.8bcdc7c74754eef32303.png",
+    "static/media/avatar.png": "/static/media/avatar.b89398285084b45e6877.png",
+    "static/media/file-storage.png": "/static/media/file-storage.655f0ab8decfc4b2a7dd.png",
+    "static/media/deep-security.png": "/static/media/deep-security.b56cb2085445bcf9b26a.png",
+    "static/media/social-posts.png": "/static/media/social-posts.ed677c4556a6d5c2d9bf.png",
+    "static/media/ai-interview.png": "/static/media/ai-interview.ffef61f5b10d7f8a4ae2.png",
+    "static/media/cloud-account.png": "/static/media/cloud-account.35b2f08c52df194b05fc.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Dave_Lin_Resume.pdf": "/static/media/Dave_Lin_Resume.2fa3f1617d36dd4e37c6.pdf",
+    "static/media/logo.png": "/static/media/logo.2ac1c31e4eb1b2bb83d0.png",
+    "static/media/go.svg": "/static/media/go.9a9bf59ea453fc0e3ec82471b0c300ab.svg",
+    "static/media/AWS.svg": "/static/media/AWS.4029b6fea7c8192805f6a1bc1491257b.svg",
+    "static/media/Docker.svg": "/static/media/Docker.e66b6dcb6f3f435cf76e5ad948b9bff7.svg",
+    "static/media/Python.svg": "/static/media/Python.9daed22c470296a63e19d0d509a1828b.svg",
+    "static/media/React.svg": "/static/media/React.fa17b44468fe3c157fc20898567de2b4.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "static/media/C++.svg": "/static/media/C++.90772619f39a0a3b04f60ee5c827c002.svg",
+    "static/media/Typescript.svg": "/static/media/Typescript.774303fe4118066257168b3609fd95a3.svg",
+    "static/media/Git.svg": "/static/media/Git.9fbdd94cab5e68fd45b434fd29b1bb5e.svg",
+    "main.a1c6126a.css.map": "/static/css/main.a1c6126a.css.map",
+    "main.74f8c1fa.js.map": "/static/js/main.74f8c1fa.js.map",
+    "453.a145645a.chunk.js.map": "/static/js/453.a145645a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1c6126a.css",
+    "static/js/main.74f8c1fa.js"
+  ]
+}
