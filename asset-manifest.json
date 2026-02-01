@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a1c6126a.css",
-    "main.js": "/static/js/main.74f8c1fa.js",
+    "main.js": "/static/js/main.65950a31.js",
     "static/js/453.a145645a.chunk.js": "/static/js/453.a145645a.chunk.js",
     "static/media/multi-task-learning.png": "/static/media/multi-task-learning.a895d69f8754f06bace5.png",
     "static/media/home-main.png": "/static/media/home-main.8bcdc7c74754eef32303.png",
@@ -19,17 +19,17 @@
     "static/media/Docker.svg": "/static/media/Docker.e66b6dcb6f3f435cf76e5ad948b9bff7.svg",
     "static/media/Python.svg": "/static/media/Python.9daed22c470296a63e19d0d509a1828b.svg",
     "static/media/React.svg": "/static/media/React.fa17b44468fe3c157fc20898567de2b4.svg",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "static/media/C++.svg": "/static/media/C++.90772619f39a0a3b04f60ee5c827c002.svg",
     "static/media/Typescript.svg": "/static/media/Typescript.774303fe4118066257168b3609fd95a3.svg",
     "static/media/Git.svg": "/static/media/Git.9fbdd94cab5e68fd45b434fd29b1bb5e.svg",
     "main.a1c6126a.css.map": "/static/css/main.a1c6126a.css.map",
-    "main.74f8c1fa.js.map": "/static/js/main.74f8c1fa.js.map",
+    "main.65950a31.js.map": "/static/js/main.65950a31.js.map",
     "453.a145645a.chunk.js.map": "/static/js/453.a145645a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1c6126a.css",
-    "static/js/main.74f8c1fa.js"
+    "static/js/main.65950a31.js"
   ]
 }
